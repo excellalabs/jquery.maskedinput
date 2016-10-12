@@ -13,7 +13,7 @@
   "scripts": {
     "test": "grunt test"
   },
-  "main": "gruntfile.js",
+  "main": "src/jquery.maskedinput.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/excellalabs/jquery.maskedinput.git"
